@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Cop3530 P2/demo.h
+iostream
+-
+vector
+-
+queue
+-
+cmath
+-
+ctime
+-
+time.h
+-
+
+D:/Cop3530 P2/main.cpp
+iostream
+-
+demo.h
+D:/Cop3530 P2/demo.h
+
