@@ -33,8 +33,8 @@ Now you are ready to run the program.
 
 To run the program navigate to the main.cpp file after downloading the entire demonstration.
 
-	Download at:
-
+	Download at: https://github.com/Melchi0r/Algorithms-Demo--COP3530-P2-
+	(Even include the "-" at the end)			
 
 Then biuld and run the program from the main.cpp. (It will be the green play(left point triangle) in the top right if you use Clion).
 
